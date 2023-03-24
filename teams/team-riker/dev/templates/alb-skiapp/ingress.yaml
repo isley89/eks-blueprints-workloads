@@ -24,6 +24,3 @@ spec:
                 name: skiapp-service
                 port:
                   number: 80
-git add .
-git commit -m "feature: adding skiapp which uses alb"
-git push
